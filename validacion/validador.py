@@ -1,6 +1,6 @@
 """
 Equipo: Bug Hunters (eq02) | HU: HU-201
-Encargado: [Persona G]
+Encargado: Santiago Enrique Piscoya Bellido 
 """
 
 def validar_entero(valor) -> bool:
