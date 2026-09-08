@@ -1,6 +1,6 @@
 """
 Equipo: Bug Hunters (eq02) | HU: HU-201
-Encargado: [Persona D]
+Encargado: [Gabriel Torrico Nina]
 """
 
 def resta_lista(numeros: list) -> float:
